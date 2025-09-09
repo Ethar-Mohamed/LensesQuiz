@@ -50,7 +50,7 @@
         <img :src="option.img" alt="" class="w-40 h-30 text-center mx-auto" />
 
         <div class="mt-2 text-sm font-medium text-slate-700">
-          <span
+          <!-- <span
             :class="[
               'text-xs font-bold px-2 py-1 rounded',
               selected === option.value
@@ -59,7 +59,12 @@
             ]"
           >
             {{ $t(`option.${option.label}`) }}
-          </span>
+          </span> -->
+          <span class="text-xs font-bold px-2 py-1 rounded"
+      :class="selected === option.value ? 'bg-slate-700 text-white' : 'border-1 bg-white text-slate-700'">
+  {{ option.label }} <!-- أو option.text حسب اسم المفتاح -->
+</span>
+
           <span class="text-sm mx-1">{{ $t(`option.${option.value}`) }}</span>
         </div>
       </div>
