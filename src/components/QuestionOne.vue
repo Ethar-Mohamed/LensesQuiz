@@ -62,7 +62,7 @@
           </span> -->
           <span class="text-xs font-bold px-2 py-1 rounded"
       :class="selected === option.value ? 'bg-slate-700 text-white' : 'border-1 bg-white text-slate-700'">
-  {{ option.label }} <!-- أو option.text حسب اسم المفتاح -->
+  {{ option.label }} 
 </span>
 
           <span class="text-sm mx-1">{{ $t(`option.${option.value}`) }}</span>
