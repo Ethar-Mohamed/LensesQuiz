@@ -60,9 +60,9 @@
                 : 'border-1 bg-white text-slate-700',
             ]"
           >
-            {{ $t(`option.${option.label}`) }}
+            {{ $t(`${option.label}`) }}
           </span>
-          <span class="text-sm mx-1">{{ $t(`option.${option.value}`) }}</span>
+          <span class="text-sm mx-1">{{ $t(`${option.value}`) }}</span>
         </div>
       </div>
     </div>

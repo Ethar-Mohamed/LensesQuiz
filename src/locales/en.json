@@ -9,7 +9,6 @@
   "question7": "7. Contact Information",
   "typequestion": "(Allow multiple choice)",
   "typequestion6": "(Optional)",
-  
     "bright-blue": "Bright Blue",
     "blue": "Blue",
     "dark-brown": "Dark Brown",
@@ -68,12 +67,12 @@
   "alert_enter_contact": "Please enter at least email or phone number.",
   "invalid_email": "Please enter a valid email address",
   "invalid_phone": "Please enter a valid phone number",
-  "countries": {
+  
     "egypt": "Egypt",
     "saudi": "Saudi Arabia",
     "uae": "United Arab Emirates",
     "usa": "United States"
-  },
+  ,
   "fields": {
     "eyeColor": "Eye Color",
     "skinColor": "Skin Tone",

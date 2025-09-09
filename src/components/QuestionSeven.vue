@@ -55,16 +55,16 @@
           class="w-45 border border-gray-300 rounded p-2 focus:outline-none focus:ring-2 focus:ring-slate-900"
         >
           <option value="+20">
-            {{ $t("countries.egypt") }} {{ arabicNumber("+20") }}
+            {{ $t("egypt") }} {{ arabicNumber("+20") }}
           </option>
           <option value="+966">
-            {{ $t("countries.saudi") }} {{ arabicNumber("+966") }}
+            {{ $t("saudi") }} {{ arabicNumber("+966") }}
           </option>
           <option value="+971">
-            {{ $t("countries.uae") }} {{ arabicNumber("+971") }}
+            {{ $t("uae") }} {{ arabicNumber("+971") }}
           </option>
           <option value="+1">
-            {{ $t("countries.usa") }} {{ arabicNumber("+1") }}
+            {{ $t("usa") }} {{ arabicNumber("+1") }}
           </option>
         </select>
 
