@@ -9,7 +9,7 @@
   "question7": "7. Contact Information",
   "typequestion": "(Allow multiple choice)",
   "typequestion6": "(Optional)",
-  "option": {
+  
     "bright-blue": "Bright Blue",
     "blue": "Blue",
     "dark-brown": "Dark Brown",
@@ -49,8 +49,8 @@
     "tan": "Tan",
     "brown": "Brown",
     "deep-brown": "Deep Brown",
-    "dark": "Dark"
-  },
+    "dark": "Dark",
+
   "pleaseSelectOption": "You need to select one before moving on.",
   "of": "of",
   "button": "OK",

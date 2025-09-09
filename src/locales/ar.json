@@ -8,7 +8,7 @@
   "question6": "٦. هل تفضل أن تتناسب العدسات مع ...؟",
   "typequestion": "(يسمح باختيار متعدد)",
   "typequestion6": "(اختياري)",
-  "option": {
+ 
     "bright-blue": "أزرق فاتح",
     "blue": "أزرق",
     "dark-brown": "بني داكن",
@@ -49,7 +49,7 @@
     "brown": "بني",
     "deep-brown": "بني غامق",
     "dark": "داكن"
-  },
+  ,
   "pleaseSelectOption": "يجب عليك اختيار واحدة قبل المتابعة.",
   "of": "من",
   "button": "موافق",
